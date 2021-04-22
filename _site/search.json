@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-22T16:17:52+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Market Design Projects",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-22T16:17:52+00:00"
+    },
+    {
+      "path": "project_summary.html",
+      "title": "Your Project Title Here",
+      "description": "A short description.\n",
+      "author": [
+        {
+          "name": "Person 1",
+          "url": {}
+        },
+        {
+          "name": "Person 2",
+          "url": {}
+        },
+        {
+          "name": "Person 3",
+          "url": {}
+        },
+        {
+          "name": "Person 4",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nProblem Statement\nPlace a short description (3 sentences max) of your problem.\nExplain the decision inefficiency in the state of problem today.\nWhy is it importnat or worth solving?\nUser Personas\nPersona 1\n\nPersona 2\n\nPersona 3\n\nConversation Starters\nStarter 1\nStarter 2\nStarter 3\nStarter 4\nStarter 5.\nUser Interviews\nInterview 1 Name\nWhen did it happen\nHow did it happen\nInterview 2 Name\nWhen did it happen\nHow did it happen\nInterview 3 Name\nWhen did it happen\nHow did it happen\nLearnings from the User Interviews\nLearning 1\nwhat did you tweak in problem or persona understanding\nLearning 2\nwhat did you tweak in your problem or persona understanding\nLearning 3\nwhat did you tweak in your problem or persona understanding.\nStoryboarding a Solution\nFrame 1\nIn the first frame start with the user and their basic situation/problem before experiencing your solution.\nPoint 1\nPoint 2\nPoint 3\n\nFrame 2 to N-1\nExplain each frame with bullet points\nPoint 1\nPoint 2\nPoint 3\n\nFrame N (final frame)\nIllustrate the value creation in the final frame (e.g., problem solved!)\n\nNext Steps\nWhat are your next steps if you pursue the project further\n\n\n\n",
+      "last_modified": "2021-04-22T16:39:14+00:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

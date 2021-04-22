@@ -1,0 +1,115 @@
+---
+title: "Your Project Title Here"
+description: |
+  A short description.
+author:
+  - name: Person 1
+  - name: Person 2
+  - name: Person 3
+  - name: Person 4 
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+preview: insertimagehere.gif
+---
+
+# Problem Statement
+
+Place a short description (3 sentences max) of your problem. 
+
+- Explain the decision inefficiency in the state of problem today.
+
+- Why is it importnat or worth solving?
+
+
+# User Personas
+
+### Persona 1 
+
+![](petname.png)
+
+### Persona 2
+
+![](petname.png)
+
+### Persona 3
+
+![](petname.png)
+
+# Conversation Starters
+
+1. Starter 1
+2. Starter 2
+3. Starter 3
+4. Starter 4
+5. Starter 5. 
+
+# User Interviews
+
+### Interview 1 Name
+
+- When did it happen
+- How did it happen
+ 
+
+### Interview 2 Name
+
+- When did it happen
+- How did it happen
+    
+### Interview 3 Name
+
+- When did it happen
+- How did it happen
+    
+
+# Learnings from the User Interviews
+
+### Learning 1
+
+- what did you tweak in problem or persona understanding
+
+### Learning 2 
+
+- what did you tweak in your problem or persona understanding
+
+
+### Learning 3
+
+- what did you tweak in your problem or persona understanding. 
+
+# Storyboarding a Solution
+
+## Frame 1
+
+In the first frame start with the user and their basic situation/problem before experiencing your solution. 
+
+- Point 1
+- Point 2
+- Point 3
+
+![](insertimagehere.gif)
+
+
+
+
+## Frame 2 to N-1
+
+Explain each frame with bullet points
+
+- Point 1
+- Point 2
+- Point 3
+
+![](insertimagehere.gif)
+
+## Frame N (final frame)
+
+Illustrate the value creation in the final frame (e.g., problem solved!)
+
+![](insertimagehere.gif)
+
+
+# Next Steps
+
+What are your next steps if you pursue the project further
