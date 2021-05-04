@@ -1,7 +1,7 @@
 ---
-title: "Your Project Title Here"
+title: "College?"
 description: |
-  A short description.
+  This is out project.
 author:
   - name: Person 1
   - name: Person 2
