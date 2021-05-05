@@ -1,12 +1,13 @@
 ---
 title: "College?"
-description: |
-  This is out project.
+description:
+
+In today's modern society, young adults frequently attend college without really considering whether it is the best option for them. This projects' focus is on improving people’s decision-making pertaining to educational & career paths and thus increasing efficiency and welfare of our society. 
+
 author:
-  - name: Person 1
-  - name: Person 2
-  - name: Person 3
-  - name: Person 4 
+  - name: Sofiya Pavlova
+  - name: Claes Sjoborg
+  - name: Xue Yao Zhu
 
 date: "`r Sys.Date()`"
 output: distill::distill_article
@@ -15,34 +16,42 @@ preview: insertimagehere.gif
 
 # Problem Statement
 
-Place a short description (3 sentences max) of your problem. 
+ The problem this project will address is the decision almost to pursue higher education i.e. anything post-high-school. This problem will not only focus not only on wether the person decides to pursue higher education, but also what type of higher education they want to pursue e.g. private university, communitty college, trade school, etc.
 
-- Explain the decision inefficiency in the state of problem today.
+- There are a number of factors that can influence a person's decision regarding higher education such as peer pressure, lack of knowledge, and societal factors like income inequality and family circumstances.
 
-- Why is it importnat or worth solving?
+- The decision to go to college or not affects the majority of people from wealthy to low-income individuals and has a significant impact not only on those individuals’ lives but also on the welfare of the society as a whole i.e.  effective use of resources, better economy. 
 
 
 # User Personas
 
-### Persona 1 
+### Persona 1  - Low-Income Student
 
 ![](petname.png)
 
-### Persona 2
+### Persona 2 - Well-off Student
 
 ![](petname.png)
 
-### Persona 3
+### Persona 3 - Parents of a Student
+
+![](petname.png)
+
+### Persona 3 - Older Individual
+
+![](petname.png)
+
+### Persona 3 - College Admissions Officer
 
 ![](petname.png)
 
 # Conversation Starters
 
-1. Starter 1
-2. Starter 2
-3. Starter 3
-4. Starter 4
-5. Starter 5. 
+1. Are you in school right now?
+2. What is your personal educational experience?
+3. Do you think school is/was worthwhile?
+4. How important is education to you? 
+5. What are some factors you are considering when making the decision about the next step after graduating from high-school?
 
 # User Interviews
 
