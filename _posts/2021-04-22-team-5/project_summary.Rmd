@@ -11,7 +11,7 @@ author:
 
 date: "`r Sys.Date()`"
 output: distill::distill_article
-preview: insertimagehere.gif
+preview: ![image](https://user-images.githubusercontent.com/83670292/117210643-f9709680-adc5-11eb-81b1-1cc167097dc6.png)
 ---
 
 # Problem Statement
@@ -27,23 +27,53 @@ preview: insertimagehere.gif
 
 ### Persona 1  - Low-Income Student
 
-![](petname.png)
+Name: Billy Creager
+Demographic: 
+- Chicago, IL
+- Low income, first generation
+- Junior in high school
+
+![image](https://user-images.githubusercontent.com/83670292/117208426-1d7ea880-adc3-11eb-95a3-2388247e1246.png)
 
 ### Persona 2 - Well-off Student
 
-![](petname.png)
+Name: Francine Leibowitz
+Demographic: 
+- San Diego, CA
+- Middle income
+- Junior in high school
+
+![image](https://user-images.githubusercontent.com/83670292/117208585-4c951a00-adc3-11eb-8500-65f3630383bf.png)
 
 ### Persona 3 - Parents of a Student
 
-![](petname.png)
+Name: Larry and Marie Davis
+Demographic: 
+- Chicago, IL
+- Low-middle income, Larry has a Bachelors, Marie has an Associates
+- Have a 16 year old daughter
 
-### Persona 3 - Older Individual
+![image](https://user-images.githubusercontent.com/83670292/117209227-13a97500-adc4-11eb-9cf4-19e47dc6fc7d.png)
 
-![](petname.png)
+### Persona 4 - Older Individual
 
-### Persona 3 - College Admissions Officer
+Name: Allana Aiyana
+Demographic: 
+- Chicago, IL
+- Low income, works as a hairdresser and a waitress
+- 20 years old, has a 3 year old son
 
-![](petname.png)
+![image](https://user-images.githubusercontent.com/83670292/117209818-e27d7480-adc4-11eb-87d4-c4bc2d25431a.png)
+
+### Persona 5 - College Admissions Officer
+
+Name: Allana Aiyana
+Demographic: 
+- Philadelphia, PA
+- Has a Bachelors and a Masters
+- Works for a private university
+
+![image](https://user-images.githubusercontent.com/83670292/117210547-d0e89c80-adc5-11eb-810b-22a1127f0aec.png)
 
 # Conversation Starters
 
@@ -55,20 +85,24 @@ preview: insertimagehere.gif
 
 # User Interviews
 
-### Interview 1 Name
+### Interview 1 Lana Oeun, College Drop-out
 
-- When did it happen
+- 31 March 2021
+- How did it happen
+
+### Interview 2 Admissions Officer (Name Witheld for Privacy)
+
+- 5 April 2021
+- How did it happen
+
+### Interview 3 - Anuj Patel, Junior in High School
+
+- 9 April 2021
 - How did it happen
  
+### Interview 4 - Sahi Patel, Parent of a High School Student
 
-### Interview 2 Name
-
-- When did it happen
-- How did it happen
-    
-### Interview 3 Name
-
-- When did it happen
+- 9 April 2021
 - How did it happen
     
 
@@ -76,48 +110,96 @@ preview: insertimagehere.gif
 
 ### Learning 1
 
-- what did you tweak in problem or persona understanding
+- There are a number of intangible factors that play a roll in the decision as tot whetther students should go to college e.g. building networks, personal fullfillment.
+
+### Tweak 1
+
+- Intangible factors in college enrollment such as network can not be quantified easily in a product, so we decided to focus on a quantitative financial approach in providing value through our product.
 
 ### Learning 2 
 
-- what did you tweak in your problem or persona understanding
+- College admissions do not take into account what happens to students post-college whether in regard to finances or career choices.
 
+### Tweak 2
+
+- Therefore, it is truly up to students to look out for their personal interests in relation to post-graduate life. The decision they will make needs to be an informed decision so that they know what they are signing up for if they choose to pursue higher education.
 
 ### Learning 3
 
-- what did you tweak in your problem or persona understanding. 
+- Some students are unaware of all options avalable to them when graduating high school.
+
+### Tweak 3
+
+- Thus, we wanted our solution to provide a clear list of options and make it easy to compare and contrast them using some sandardized metrics.
 
 # Storyboarding a Solution
 
 ## Frame 1
 
-In the first frame start with the user and their basic situation/problem before experiencing your solution. 
+- Billy is a junior in high school. 
+- He comes from a low-income family and his parents own a small business.
 
-- Point 1
-- Point 2
-- Point 3
+![1](https://user-images.githubusercontent.com/83670292/117216225-6c314000-adcd-11eb-8111-56c45801d913.png)
 
-![](insertimagehere.gif)
+## Frame 2
 
+- Many of Billy’s friends are going to college or have some plans for after graduation, so Billy wants to consider his options.
 
+![2](https://user-images.githubusercontent.com/83670292/117216267-7c491f80-adcd-11eb-9108-371602628d05.png)
 
+## Frame 3
 
-## Frame 2 to N-1
+- He googles some keywords online and finds our website. He starts the questionnaire.
 
-Explain each frame with bullet points
+![3](https://user-images.githubusercontent.com/83670292/117216327-8ff48600-adcd-11eb-8a40-87f833a2e29d.png)
 
-- Point 1
-- Point 2
-- Point 3
+## Frame 4
 
-![](insertimagehere.gif)
+- He starts the questionnaire in order to see what his options are and what is the best choice for him given everything.
 
-## Frame N (final frame)
+![4](https://user-images.githubusercontent.com/83670292/117216349-9aaf1b00-adcd-11eb-9c8e-dbedf5d41887.png)
 
-Illustrate the value creation in the final frame (e.g., problem solved!)
+## Frame 5
 
-![](insertimagehere.gif)
+- First question is how much can you/family contribute to your education. Billy’s family cannot spare any money for him to study further. 
+- This means he will need to either take out loans or look for scholarships/financial aid for further education.
 
+![5](https://user-images.githubusercontent.com/83670292/117216422-bc100700-adcd-11eb-868c-c9d8ee381e35.png)
+
+## Frame 6
+
+- Second question is about his/his family’s overall income. 
+- Billy’s family is low-income so he will be able to get public loans if he decides to go to college.
+
+![6](https://user-images.githubusercontent.com/83670292/117216432-c0d4bb00-adcd-11eb-90b5-84fe9011e603.png)
+
+## Frame 7
+
+- Third question is about grades (good/average/poor student with numbers). 
+- Billy is an average student so he is not very likely to get merit based scholarships but could possibly get need-based aid (however also unlikely since schools that are need-blind are usually highly-selective).
+
+![7](https://user-images.githubusercontent.com/83670292/117216439-c4684200-adcd-11eb-9df9-0b309661a945.png)
+
+## Frame 8
+
+- Fourth question is about interests and majors: checkbox the top 3 answers. 
+- Billy is interested in engineering majors,likes music, and finally education.
+
+![8](https://user-images.githubusercontent.com/83670292/117216456-c9c58c80-adcd-11eb-9445-8dca7ad31cfb.png)
+
+## Frame 9
+
+- There are options for each major picked ranked best to worst (e.g. instate/out of state).
+-  Billy can click on any of the given options to see more details about financial and employment information for each option.
+
+![9](https://user-images.githubusercontent.com/83670292/117216479-d6e27b80-adcd-11eb-940e-68599a90d5e5.png)
+
+## Frame 10
+
+- Billy used the results from the questionnaire and decided to do community college part time studying engineering. 
+- He was able to help his parents and now has a good job.
+
+![10](https://user-images.githubusercontent.com/83670292/117216490-dc3fc600-adcd-11eb-87c5-3a21d73bb6ed.png)
 
 # Next Steps
 
