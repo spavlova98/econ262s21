@@ -7,7 +7,7 @@ In today's modern society, young adults frequently attend college without really
 author:
   - name: Sofiya Pavlova
   - name: Claes Sjoborg
-  - name: Xue Yao Zhu
+  - name: Xue Yao Zou
 
 date: "`r Sys.Date()`"
 output: distill::distill_article
@@ -88,22 +88,22 @@ Demographic:
 ### Interview 1 Lana Oeun, College Drop-out
 
 - 31 March 2021
-- How did it happen
+- In high school, Lena planned to attend college because that was what everyone wanted her to do, and what her parents wanted for her. However, throughout her first year at college, she realized that going to college was not financially feasible for her and dropped out. Lena believes that other endeavors will better help her achieve her goal of being financially independent. 
 
 ### Interview 2 Admissions Officer (Name Witheld for Privacy)
 
 - 5 April 2021
-- How did it happen
+- The admissions officer believed that some sort of higher education should be everyone's goal, but it doesn't have to be a 4-year university. She described the admissions system as focused on what the student will bring to the community on campus and not on what the student's life will be like after college. She also noted that there is much more to addmissions' and student's decisions regarding college other than finances.
 
 ### Interview 3 - Anuj Patel, Junior in High School
 
 - 9 April 2021
-- How did it happen
+- Anuj went to a public high school but was always very good in school. He experienced pressure from his family to go to college. It was a very traditional story where he was very much expected to go to college as this was the next step for his career and his family was willing to help pay for it. 
  
 ### Interview 4 - Sahi Patel, Parent of a High School Student
 
 - 9 April 2021
-- How did it happen
+- Sahi is a doctor who clearly had a large emphasis on education and would not allow their child to not attend college. Her view was that all parents should want their child to get as much education as possible as this is the foundation for success. She and her husband have saved up to pay for their child's higher education since they know it can be quite expensive. 
     
 
 # Learnings from the User Interviews
@@ -203,4 +203,6 @@ Demographic:
 
 # Next Steps
 
-What are your next steps if you pursue the project further
+- Gather much more data about the broader spectrum of needs for students. 
+- Get software team to build application and conduct user tests to see what we can change about the app to make it more tailored.
+- Try to incorporate more intangible factors that we currently omit because they would be hard to implement. 
